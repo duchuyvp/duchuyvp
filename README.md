@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Competitive Programer.
+
+Codeforces
+[Facebook](https://www.facebook.com/huysmith.it/)
+[Certificate](https://drive.google.com/drive/folders/1LTMavc2aw7AKFjsAVi3H5E1joxafm5R4?usp=sharing)
 <!--
 **duchuyvp/duchuyvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
